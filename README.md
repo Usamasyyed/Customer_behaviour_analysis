@@ -1,11 +1,11 @@
-# 🛍️ Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-EDA-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Preprocessing-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📌 Overview
+## Overview
 
 This project analyzes customer shopping behavior to uncover actionable insights about revenue patterns, discount effectiveness, subscription value, and product category performance. The analysis follows a complete data analytics pipeline:
 
