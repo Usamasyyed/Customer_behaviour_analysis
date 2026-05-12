@@ -15,7 +15,7 @@ This project analyzes customer shopping behavior to uncover actionable insights 
 - **Interactive Dashboard** (Power BI)
 - **Final Report & Presentation**
 
-## 📊 Dataset
+## Dataset
 
 **Source:** Customer shopping behavior dataset (CSV format)
 
@@ -36,7 +36,7 @@ This project analyzes customer shopping behavior to uncover actionable insights 
 | `shipping_type` | Shipping method selected |
 | `previous_purchases` | Count of prior transactions |
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -47,7 +47,7 @@ This project analyzes customer shopping behavior to uncover actionable insights 
 | **Gamma** | Presentation generation |
 | **GitHub** | Version control and project hosting |
 
-## 📋 Project Steps
+## Project Steps
 
 ### 1. Data Loading & Cleaning (Python)
 
